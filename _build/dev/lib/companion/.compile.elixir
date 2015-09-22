@@ -1,0 +1,3 @@
+_build/dev/lib/companion/ebin/Elixir.Companion.beam	Elixir.Companion	lib/companion.ex	Elixir.Companion.Supervisor	Elixir.IO	Elixir.Module	Elixir
+_build/dev/lib/companion/ebin/Elixir.Companion.Supervisor.beam	Elixir.Companion.Supervisor	lib/companion/surpervisor.ex	Elixir.Companion.Core	Elixir.Kernel	Elixir.Module	Elixir.Supervisor	Elixir.Supervisor.Spec	Elixir
+_build/dev/lib/companion/ebin/Elixir.Companion.Core.beam	Elixir.Companion.Core	lib/companion/core.ex	Elixir.IO	Elixir.Module	erlang	Elixir

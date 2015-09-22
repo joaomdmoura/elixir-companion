@@ -1,1 +1,4 @@
-# elixir-companion
+Companion
+=========
+
+** TODO: Add description **
