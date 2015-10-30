@@ -1,8 +1,10 @@
 {application,companion,
              [{registered,[]},
               {description,"companion"},
-              {applications,[kernel,stdlib,elixir,logger]},
+              {applications,[kernel,stdlib,elixir]},
+              {mod,{'Elixir.Companion',[]}},
               {vsn,"0.0.1"},
               {modules,['Elixir.Companion','Elixir.Companion.Bucket',
+                        'Elixir.Companion.Bucket.Supervisor',
                         'Elixir.Companion.Core','Elixir.Companion.Registry',
                         'Elixir.Companion.Supervisor']}]}.
